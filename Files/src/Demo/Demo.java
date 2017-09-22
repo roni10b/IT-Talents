@@ -1,4 +1,4 @@
-package Demo;
+﻿package Demo;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -15,6 +15,7 @@ public class Demo {
 	public static void main(String[] args) throws IOException {
 
 		File f = new File("voina.txt");
+
 		Scanner sc = new Scanner(f, "UTF-8");
 		
 		TreeMap<String, Integer> words = new TreeMap<>();
