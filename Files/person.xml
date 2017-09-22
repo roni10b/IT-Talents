@@ -1,0 +1,33 @@
+<map>
+  <entry>
+    <string>cars</string>
+    <map>
+      <entry>
+        <string>Mercedes</string>
+        <list>
+          <Classwork.Car>
+            <doors>4</doors>
+            <model>C180</model>
+          </Classwork.Car>
+          <Classwork.Car>
+            <doors>4</doors>
+            <model>C220</model>
+          </Classwork.Car>
+        </list>
+      </entry>
+      <entry>
+        <string>BMW</string>
+        <list>
+          <Classwork.Car>
+            <doors>4</doors>
+            <model>x6</model>
+          </Classwork.Car>
+          <Classwork.Car>
+            <doors>4</doors>
+            <model>x5</model>
+          </Classwork.Car>
+        </list>
+      </entry>
+    </map>
+  </entry>
+</map>
